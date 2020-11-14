@@ -1,4 +1,4 @@
-package kevinjanvier;
+package kevinjanvier.login;
 
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -14,6 +14,7 @@ import javafx.scene.image.ImageView;
 import javafx.stage.Stage;
 import javafx.event.ActionEvent;
 import javafx.stage.StageStyle;
+import kevinjanvier.db.DatabaseConnection;
 
 import java.io.File;
 import java.net.URL;
